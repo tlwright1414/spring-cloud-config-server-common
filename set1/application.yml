@@ -1,0 +1,7 @@
+test: 
+  git: 
+    message: hello-from-set1
+
+rabbitmq:
+  username: admin
+  password: asdf
